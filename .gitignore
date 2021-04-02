@@ -1,5 +1,6 @@
 ### Custom ###
 secrets/
+.env
 *.db3
 
 ### Data ###
